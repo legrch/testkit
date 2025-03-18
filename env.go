@@ -3,7 +3,7 @@ package testkit
 import (
 	"github.com/joho/godotenv"
 
-	"github.com/legrch/logger/pkg/logger"
+	"github.com/legrch/logger"
 )
 
 // LoadEnvFiles loads environment variables from the specified files

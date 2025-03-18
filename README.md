@@ -93,7 +93,6 @@ For detailed documentation, examples, and API reference, please visit:
 
 - [Package Documentation](https://pkg.go.dev/github.com/legrch/testkit)
 - [Examples](https://github.com/legrch/testkit/tree/main/examples)
-- [API Reference](https://pkg.go.dev/github.com/legrch/testkit/pkg/testkit)
 
 ## License
 
